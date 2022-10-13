@@ -1,8 +1,25 @@
 /* HEADER */
 header{
-    height: 100px;
-    background-color: red;
+    height: 70px;
+    background-color:#f8f9fa;
+    display: flex;
+    align-items: center;
+}
+.ms-container-header{
+    background-color:#fff;
 }
 .ms-mobile-logo{
     width:20%
+}
+.container-logo{
+    padding: 0 20px ;
+}
+.search-bar{
+    background-color:#e5e5e5;
+    flex-grow:1
+}
+.search-bar-input{
+    background-color: transparent;
+    border: none;
+    width: 70%;
 }
