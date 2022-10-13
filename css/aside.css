@@ -1,5 +1,6 @@
 aside{
-    background-color: blue;
+    background-color:#082339 ;
+    background-image: url(../img/sidebar-bg.png);
     width:200px;
     flex-shrink: 0;
 }

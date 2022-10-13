@@ -1,25 +1,43 @@
 /* HEADER */
 header{
-    height: 70px;
+    height: 4.375rem;
     background-color:#f8f9fa;
     display: flex;
     align-items: center;
 }
 .ms-container-header{
     background-color:#fff;
+    align-items: center;
+    max-height:2.5rem;
 }
 .ms-mobile-logo{
-    width:20%
+    max-height:2.5rem;
 }
 .container-logo{
-    padding: 0 20px ;
+    padding: 0 1.25rem ;
 }
 .search-bar{
     background-color:#e5e5e5;
-    flex-grow:1
+    flex-grow:1;
+    height:100%;
 }
 .search-bar-input{
     background-color: transparent;
     border: none;
     width: 70%;
+}
+.sm-dropdown-icon{
+    background-color: transparent;
+    color: #ff8f00;
+}
+.ms-button{
+    background-color: transparent;
+    border:none
+}
+.container-icon-right{
+    width: 15%;
+    align-items:center
+}
+.container-icon-right i{
+    margin-left: 1.875rem;
 }
