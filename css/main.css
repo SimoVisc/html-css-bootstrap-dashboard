@@ -14,3 +14,26 @@ main{
     background-color: #155cbf;
     height: 20%;
 }
+.main-dashboard{
+    margin-top: 4rem;
+    background-color: #f8f9fa;
+}
+.container-title-table{
+    background-color: #f8f9fa;
+}
+tr img{
+    width:20px;
+    background-color: #fff;
+    margin-right: 1.25rem
+}
+td button{
+    border: 0.3px #6c757d solid;
+    border-radius: 0.4rem;
+    
+}
+td i{
+    font-size:  80%;
+}
+tr th{
+    justify-content: center;
+}
