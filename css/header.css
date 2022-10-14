@@ -14,25 +14,22 @@ header{
     max-height:2.5rem;
 }
 .container-logo{
-    padding: 0 1.25rem ;
+    padding-right:  1.25rem ;
 }
 .search-bar{
     background-color:#e5e5e5;
     flex-grow:1;
     height:100%;
+    border-radius: 0.6rem;
+    padding: 0.4rem;
 }
-.search-bar-input{
+.search-bar-input, .ms-button{
     background-color: transparent;
     border: none;
-    width: 70%;
 }
 .sm-dropdown-icon{
     background-color: transparent;
     color: #ff8f00;
-}
-.ms-button{
-    background-color: transparent;
-    border:none
 }
 .container-icon-right{
     width: 15%;

@@ -1,6 +1,12 @@
 aside{
     background-color:#082339 ;
     background-image: url(../img/sidebar-bg.png);
-    width:200px;
     flex-shrink: 0;
 }
+.ms-container-aside{
+    color:#fff
+}
+.ms-container-aside i{
+    margin: 0.625rem;
+}
+.
