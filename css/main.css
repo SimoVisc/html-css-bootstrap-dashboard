@@ -3,9 +3,6 @@ main{
     flex-grow: 1;
     overflow-y: auto;
 }
-.ms-main-menu{
-    height: 20%;
-}
 .ms-main-menu .row{
     background-color: #1c72e8;
     padding: 1.25rem;
@@ -14,11 +11,7 @@ main{
     background-color: #155cbf;
     height: 20%;
 }
-.main-dashboard{
-    margin-top: 4rem;
-    background-color: #f8f9fa;
-}
-.container-title-table{
+.dashboard{
     background-color: #f8f9fa;
 }
 tr img{
@@ -29,7 +22,6 @@ tr img{
 td button{
     border: 0.3px #6c757d solid;
     border-radius: 0.4rem;
-    
 }
 td i{
     font-size:  80%;
