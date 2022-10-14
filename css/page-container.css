@@ -1,5 +1,5 @@
 /* PAGE-CONTAINER */
 .page-container{
-    height:calc(100vh - 100px);
+    height:calc(100vh - 4.375rem);
     display:flex;
 }

@@ -2,5 +2,15 @@
 main{
     flex-grow: 1;
     overflow-y: auto;
-    background-color: aqua;
+}
+.ms-main-menu{
+    height: 20%;
+}
+.ms-main-menu .row{
+    background-color: #1c72e8;
+    padding: 1.25rem;
+}
+.ms-badge{
+    background-color: #155cbf;
+    height: 20%;
 }
