@@ -11,9 +11,11 @@ main{
     background-color: #155cbf;
     height: 20%;
 }
+/* DASHBOARD */
 .dashboard{
     background-color: #f8f9fa;
 }
+/* PROSSIME CLASSI */
 .ms-btn-offcanvas{
     border:  0.031rem #1c72e8 solid;
     border-radius: 0.3rem;
