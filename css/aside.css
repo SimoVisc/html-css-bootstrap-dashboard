@@ -1,11 +1,19 @@
 aside{
     background-color:#082339 ;
     background-image: url(../img/sidebar-bg.png);
+    height: 100%;
     flex-shrink: 0;
+   
 }
 .ms-container-aside{
-    color:#fff
+    height: 90%;
+    color:#fff;
+    flex-grow: 1;
 }
-.ms-container-aside i{
+.ms-container-aside i, .ms-admin i{
     margin: 0.625rem;
+}
+.ms-admin{
+    height:10%;
+    color: #fff;
 }
